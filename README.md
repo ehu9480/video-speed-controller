@@ -25,13 +25,6 @@ This Firefox extension allows you to control the playback speed of any video ele
    - A popup will appear in the center of the screen, displaying the current playback speed (e.g., 1.1x).
    - The popup fades after 1 second. If you adjust the speed again within that time, the popup updates without stacking.
 
-## Development Notes
-
-### Step 2: Save and Reload the Extension
-
-- **Save Changes**: Ensure you save the updated `content.js` file in your `video-speed-controller` folder.
-- **Reload the Extension**: Go back to `about:debugging#/runtime/this-firefox` in Firefox. Click on the **Reload** button next to your extension to load the updated code.
-
 ## License
 
 This project is open source and available under the MIT License.
